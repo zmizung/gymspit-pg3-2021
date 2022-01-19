@@ -1,0 +1,4 @@
+startingValue 1500
+kapesne 700
+nanuk -25
+jdu ti to rozbit 0
