@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\bin\Debug\netcoreapp3.1\RndSoubor.exe
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\bin\Debug\netcoreapp3.1\RndSoubor.deps.json
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\bin\Debug\netcoreapp3.1\RndSoubor.runtimeconfig.json
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\bin\Debug\netcoreapp3.1\RndSoubor.runtimeconfig.dev.json
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\bin\Debug\netcoreapp3.1\RndSoubor.dll
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\bin\Debug\netcoreapp3.1\RndSoubor.pdb
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.AssemblyInfo.cs
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.dll
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.pdb
+C:\Users\admin\source\repos\RndSoubor\RndSoubor\obj\Debug\netcoreapp3.1\RndSoubor.genruntimeconfig.cache
