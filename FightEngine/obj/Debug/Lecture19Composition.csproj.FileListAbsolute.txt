@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\FightEngine\bin\Debug\Lecture19Composition.exe.config
+C:\Users\admin\source\repos\FightEngine\bin\Debug\Lecture19Composition.exe
+C:\Users\admin\source\repos\FightEngine\bin\Debug\Lecture19Composition.pdb
+C:\Users\admin\source\repos\FightEngine\obj\Debug\Lecture19Composition.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FightEngine\obj\Debug\Lecture19Composition.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FightEngine\obj\Debug\Lecture19Composition.exe
+C:\Users\admin\source\repos\FightEngine\obj\Debug\Lecture19Composition.pdb
