@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Reigns\Reigns\bin\Debug\netcoreapp3.1\Reigns.exe
+C:\Users\admin\source\repos\Reigns\Reigns\bin\Debug\netcoreapp3.1\Reigns.deps.json
+C:\Users\admin\source\repos\Reigns\Reigns\bin\Debug\netcoreapp3.1\Reigns.runtimeconfig.json
+C:\Users\admin\source\repos\Reigns\Reigns\bin\Debug\netcoreapp3.1\Reigns.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Reigns\Reigns\bin\Debug\netcoreapp3.1\Reigns.dll
+C:\Users\admin\source\repos\Reigns\Reigns\bin\Debug\netcoreapp3.1\Reigns.pdb
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.AssemblyInfo.cs
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.dll
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.pdb
+C:\Users\admin\source\repos\Reigns\Reigns\obj\Debug\netcoreapp3.1\Reigns.genruntimeconfig.cache

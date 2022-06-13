@@ -1,0 +1,47 @@
+Commander Erin
+Your majesty, the army is weak and the streets are full of crime and unrest. The army needs more resources!
+We'll give you more money
+No, do a better job
+-10 10 0 0 10 -10 0 0
+
+Commander Erin
+Your majesty, the neighboring country of Chrÿsia is preparing their army and planning a big attack. We must attack them first!
+Attack!
+They're bluffing.
+-4 10 -10 0 4 -10 8 0
+
+Commander Erin
+Your majesty, the church has too much power in their hands. We should give them less money and use it for the army instead.
+You're right
+Not a chance
+0 12 0 -12 0 -12 0 12
+
+Commander Erin
+Your majesty, these two soldiers are most likely foreign spies! They deserve nothing but to be executed!
+Off with their heads!
+Let them live
+0 10 -10 0 0 -10 10 0
+
+The Archbishop
+Your highness, people keep losing faith and there are more and more heathens. Talk to them, tell them to find God again!
+I'll prepare a big speech
+Let them decide for themselves
+0 0 6 8 0 0 -6 -8
+
+The Archbishop
+Your highness, some criminals vandalized our church! We must find and hang them!
+Find them at all costs!
+Let's just repair the church
+0 0 -6 8 -6 0 0 -8
+
+The Archbishop
+Your highness, we bring you a gift from God. Hands you a yellow rubber duck
+Amazing! Build a statue in the shape of this object!
+What the hell is this?
+-8 0 8 8 8 0 0 -8
+
+The Archbishop
+Your highness, a witch cult has appeared among the people. We must interfere!
+Find and burn them!
+I don't think they're a threat
+0 0 -8 8 0 0 8 -8
